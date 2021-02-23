@@ -12,7 +12,7 @@ var (
 	LimitOutOfRange     = errors.New("limit out of 1-100")
 )
 
-func InvalidID(name string) error {
+func InvalidParam(name string) error {
 	return errors.New(fmt.Sprintf("invalid %s", name))
 }
 
