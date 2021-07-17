@@ -1,3 +1,3 @@
-module github.com/nnqq/scr-lib-safeerr
+module github.com/leaq-ru/lib-safeerr
 
 go 1.15

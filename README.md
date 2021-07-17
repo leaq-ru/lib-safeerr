@@ -1,1 +1,1 @@
-# scr-lib-safeerr
+https://github.com/leaq-ru/about
